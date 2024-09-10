@@ -121,7 +121,29 @@ body {
 
 .projects strong {
     color: #333;
+    
+}/* About and Education Section: Side by Side */
+.about-education-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
 }
+
+.about, .education {
+    flex: 1;
+    min-width: 300px; /* Ensures sections stack on smaller screens */
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about p, .education p {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 
 /* Education Section */
 .education p {
