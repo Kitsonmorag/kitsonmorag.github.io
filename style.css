@@ -9,7 +9,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* Same color gradient */
     color: #fff;
     overflow-x: hidden;
 }
@@ -110,48 +110,13 @@ body {
     transform: scale(1.1);
 }
 
-/* About and Education Section Side by Side */
-.about-education-wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    gap: 20px;
-}
-
-.about, .education {
-    flex: 1;
-    min-width: 300px;
-    padding: 20px;
-    background-color: #0a3d62;
-    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
-}
-
-.about p, .education p {
-    text-align: left;
-    max-width: 600px;
-    margin: 0 auto;
-}
-
-.about h2, .education h2 {
+/* About and Projects */
+.about, .projects, .education, .contact {
     text-align: center;
-    color: #fff;
-}
-
-.section {
     padding: 100px 20px;
 }
 
-/* Projects and Contact Section */
-.projects, .contact {
-    text-align: center;
-}
-
-.projects h2, .contact h2 {
-    font-size: 28px;
-    margin-bottom: 20px;
-}
-
-.projects p, .contact p {
+.about p, .projects p, .education p, .contact p {
     font-size: 18px;
     margin-bottom: 20px;
     line-height: 1.6;
@@ -160,5 +125,17 @@ body {
     margin-right: auto;
 }
 
+.about h2, .projects h2, .education h2, .contact h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
 /* Fade In Animation */
-@keyframes fade
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
