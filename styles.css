@@ -1,0 +1,68 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #0f0f0f;
+    color: #00ffcc;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: #101010;
+    padding: 20px;
+    position: relative;
+}
+
+.logo {
+    width: 150px;
+    float: left;
+}
+
+.profile-pic {
+    width: 150px;
+    border-radius: 50%;
+    float: right;
+}
+
+header h1, h3 {
+    margin: 10px 0;
+    font-size: 2rem;
+    color: #0091ffd7;
+}
+
+h2 {
+    border-bottom: 2px solid #00ffcc;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+section {
+    margin: 50px 0;
+}
+
+footer {
+    background: #101010df;
+    padding: 20px;
+    color: #00ffcc;
+}
+
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 1.5rem; /* Adjust size as needed */
+    font-weight: bold;
+    color: #0095ff; /* Optional - techy color */
+}
+
+h5 {
+    font-size: 1.3rem; /* Adjust size as needed */
+    font-weight: bold;
+    color: #00a2ff; /* Optional */
+}
