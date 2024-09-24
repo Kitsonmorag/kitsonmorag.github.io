@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux--v1.png"
+    },
+    {
+        "name": "Kali Linux",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-kali-linux-linux-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Wireshark",
+        "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-wireshark-web-development-flaticons-flat-flat-icons.png"
+    },
+    {
+        "name": "Nmap",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-nmap-computer-security-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Metasploit",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-metasploit-computer-security-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Burp Suite",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-burp-suite-computer-security-flaticons-lineal-color-flat-icons.png"
+    },
+    {
+        "name": "Network Engineering",
+        "icon": "https://img.icons8.com/color/48/000000/network.png"
+    },
+    {
+        "name": "TCP/IP",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-tcp-ip-computer-security-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Penetration Testing",
+        "icon": "https://img.icons8.com/external-flat-icons-pause-08/64/000000/external-penetration-testing-it-flat-icons-pause-08.png"
+    },
+    {
+        "name": "Firewalls",
+        "icon": "https://img.icons8.com/color/48/000000/firewall.png"
+    },
+    {
+        "name": "SQL Injection",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-sql-injection-database-security-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Ethical Hacking",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-hacker-cybersecurity-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Network Security",
+        "icon": "https://img.icons8.com/external-flat-icons-pause-08/64/000000/external-network-security-cyber-security-flat-icons-pause-08.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "Bash Scripting",
+        "icon": "https://img.icons8.com/ios/50/000000/bash.png"
+    },
+    {
+        "name": "Cryptography",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-cryptography-cybersecurity-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "OWASP Top 10",
+        "icon": "https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-security-online-learning-kiranshastry-lineal-kiranshastry.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Palo Alto",
+        "icon": "https://img.icons8.com/external-justicon-lineal-justicon/64/000000/external-firewall-computer-security-justicon-lineal-justicon.png"
+    },
+    {
+        "name": "Splunk",
+        "icon": "https://img.icons8.com/ios-filled/50/000000/splunk.png"
+    },
+    {
+        "name": "SIEM",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-siem-security-management-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Incident Response",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-incident-response-computer-security-flaticons-lineal-color-flat-icons.png"
+    },
+    {
+        "name": "Social Engineering",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-social-engineering-social-media-flatart-icons-outline-flatarticons.png"
+    }
+]
