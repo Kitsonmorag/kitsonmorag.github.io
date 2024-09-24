@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux--v1.png"
+    },
+    {
+        "name": "Kali Linux",
+        "icon": "https://img.icons8.com/color/48/000000/kali-linux.png"
+    },
+    {
+        "name": "Wireshark",
+        "icon": "https://img.icons8.com/color/48/000000/wireshark.png"
+    },
+    {
+        "name": "Nmap",
+        "icon": "https://img.icons8.com/color/48/000000/nmap.png"
+    },
+    {
+        "name": "Metasploit",
+        "icon": "https://img.icons8.com/color/48/000000/metasploit.png"
+    },
+    {
+        "name": "Burp Suite",
+        "icon": "https://img.icons8.com/color/48/000000/burp-suite.png"
+    },
+    {
+        "name": "Network Engineering",
+        "icon": "https://img.icons8.com/color/48/000000/network.png"
+    },
+    {
+        "name": "TCP/IP",
+        "icon": "https://img.icons8.com/color/48/000000/tcp-ip.png"
+    },
+    {
+        "name": "Penetration Testing",
+        "icon": "https://img.icons8.com/color/48/000000/penetration-testing.png"
+    },
+    {
+        "name": "Firewalls",
+        "icon": "https://img.icons8.com/color/48/000000/firewall.png"
+    },
+    {
+        "name": "SQL Injection",
+        "icon": "https://img.icons8.com/color/48/000000/sql-injection.png"
+    },
+    {
+        "name": "Ethical Hacking",
+        "icon": "https://img.icons8.com/color/48/000000/hacker.png"
+    },
+    {
+        "name": "Network Security",
+        "icon": "https://img.icons8.com/color/48/000000/network-security.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "Bash Scripting",
+        "icon": "https://img.icons8.com/color/48/000000/bash.png"
+    },
+    {
+        "name": "Cryptography",
+        "icon": "https://img.icons8.com/color/48/000000/key.png"
+    },
+    {
+        "name": "OWASP Top 10",
+        "icon": "https://img.icons8.com/color/48/000000/security-shield.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/color/48/000000/ansible.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure.png"
+    },
+    {
+        "name": "Palo Alto",
+        "icon": "https://img.icons8.com/color/48/000000/palo-alto.png"
+    },
+    {
+        "name": "Splunk",
+        "icon": "https://img.icons8.com/color/48/000000/splunk.png"
+    },
+    {
+        "name": "SIEM",
+        "icon": "https://img.icons8.com/color/48/000000/security-system.png"
+    },
+    {
+        "name": "Vulnerability Scanning",
+        "icon": "https://img.icons8.com/color/48/000000/vulnerability.png"
+    },
+    {
+        "name": "Reverse Engineering",
+        "icon": "https://img.icons8.com/color/48/000000/reverse-engineering.png"
+    },
+    {
+        "name": "Incident Response",
+        "icon": "https://img.icons8.com/color/48/000000/cyber-attack.png"
+    },
+    {
+        "name": "Digital Forensics",
+        "icon": "https://img.icons8.com/color/48/000000/digital-forensics.png"
+    },
+    {
+        "name": "Cyber Threat Intelligence",
+        "icon": "https://img.icons8.com/color/48/000000/intelligence.png"
+    },
+    {
+        "name": "Malware Analysis",
+        "icon": "https://img.icons8.com/color/48/000000/malware.png"
+    },
+    {
+        "name": "Python for Security",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Social Engineering",
+        "icon": "https://img.icons8.com/color/48/000000/social-engineering.png"
+    },
+    {
+        "name": "Open Source Intelligence (OSINT)",
+        "icon": "https://img.icons8.com/color/48/000000/target.png"
+    },
+    {
+        "name": "Intrusion Detection Systems (IDS)",
+        "icon": "https://img.icons8.com/color/48/000000/intrusion-detection.png"
+    },
+    {
+        "name": "Network Monitoring",
+        "icon": "https://img.icons8.com/color/48/000000/network.png"
+    },
+    {
+        "name": "Zero Trust Architecture",
+        "icon": "https://img.icons8.com/color/48/000000/zero-trust.png"
+    },
+    {
+        "name": "Cloud Security",
+        "icon": "https://img.icons8.com/color/48/000000/cloud-security.png"
+    },
+    {
+        "name": "Penetration Testing Tools",
+        "icon": "https://img.icons8.com/color/48/000000/penetration-testing.png"
+    },
+    {
+        "name": "API Security",
+        "icon": "https://img.icons8.com/color/48/000000/api.png"
+    }
+]
